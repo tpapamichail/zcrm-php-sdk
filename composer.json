@@ -1,16 +1,8 @@
 {
-    "name": "zohocrm/php-sdk",
-    "description": "Zoho CRM API SDK for PHP",
+    "name": "tpapamichail/zcrm-php-sdk",
+    "description": "Fork of the Official Zoho CRM API SDK for PHP",
     "type": "SDK",
-    "homepage": "https://github.com/zoho/zcrm-php-sdk",
-    "authors": [
-        {
-            "name": "Zoho CRM API Team",
-            "email":"support@zohocrm.com",
-            "homepage": "https://www.zoho.com/crm/help/customer-support.html",
-            "role": "Developer"
-        }
-    ],
+    "homepage": "https://github.com/tpapamichail/zcrm-php-sdk",
     "require": {
         "php": ">=5.6"
     },
